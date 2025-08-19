@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/cache/
+
+# Run artifacts
+runs_frames*/
+runs_L1/
+runs_L2/
+obstacle_speed_vs_collisions.png
+
+# Logs
+*.log
